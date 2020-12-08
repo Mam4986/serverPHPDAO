@@ -4,4 +4,9 @@
     RewriteRule ^((?s).*)$ service.php?_url=/$1 [QSA,L]
 </IfModule>
 
+/**
+hier would redirect to service.php with for example localhost/serverPHPDAO/order
+here ist order bes
+**/
+
 
